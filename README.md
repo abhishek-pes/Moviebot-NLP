@@ -33,7 +33,7 @@ python3 train_chatbot.py
 Run the chatbot
 ```
 python3 chatgui.py
-
+```
 ## Output
 
 # OUTPUT
