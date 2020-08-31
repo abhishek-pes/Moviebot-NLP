@@ -33,3 +33,10 @@ python3 train_chatbot.py
 Run the chatbot
 ```
 python3 chatgui.py
+
+## Output
+
+# OUTPUT
+![alt text](https://github.com/abhishek-pes/Moviebot-NLP/blob/master/images/1.JPG)
+
+![alt text](https://github.com/abhishek-pes/Moviebot-NLP/blob/master/images/2.JPG)
